@@ -23,9 +23,9 @@ I am a passionate software developer with a love for learning and exploring new 
 
 ### Contact Me
 
-- **Email**: [lohith016@example.com](mailto:lohith016@example.com)
-- **LinkedIn**: [Lohith's LinkedIn](https://www.linkedin.com/in/lohith016)
-- **Twitter**: [@lohith016](https://twitter.com/lohith016)
+- **Email**: [lohith016@example.com](mailto:lohith934613@gmail.com)
+- **LinkedIn**: [Lohith's LinkedIn]([https://www.linkedin.com/in/lohith016](https://www.linkedin.com/in/lohith1616/))
+
 
 ### GitHub Stats
 

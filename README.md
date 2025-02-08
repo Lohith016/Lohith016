@@ -10,6 +10,7 @@ I am a passionate software developer with a love for learning and exploring new 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, Kubernetes
 - **Databases**: MongoDB, MySQL, PostgreSQL
@@ -26,7 +27,7 @@ I am a passionate software developer with a love for learning and exploring new 
 
 ### Contact Me
 
-- **Email**: [k.lohith934613@gmail.com](mailto:lohith934613@gmail.com)
+- **Email**: [lohith934613@gmail.com](mailto:lohith934613@gmail.com)
 - **LinkedIn**: [✅](https://www.linkedin.com/in/lohith1616/)
 
 ### GitHub Stats

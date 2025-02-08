@@ -36,7 +36,7 @@ I am a passionate software developer with a love for learning and exploring new 
 
 ### GitHub Streaks
 
-![Lohith's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Lohith016&theme=radical)
+![Lohith's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark&hide_border=true&short_numbers=true)]
 
 ### Top Languages
 

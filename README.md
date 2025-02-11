@@ -10,7 +10,7 @@ I'm a passionate software developer who loves exploring new technologies and tac
   ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, Kubernetes
-- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Databases**: MongoDB, MySQL
 
 ### Projects
 

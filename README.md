@@ -41,11 +41,8 @@ I'm a passionate software developer who loves exploring new technologies and tac
 
 ### GitHub Streaks
 
-![Lohith's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark&hide_border=true&short_numbers=true)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith016&layout=compact&theme=radical)
 
 ### Fun Fact
 

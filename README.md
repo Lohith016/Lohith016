@@ -36,7 +36,3 @@ I'm a passionate software developer who loves exploring new technologies and tac
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lohith1616/)
 
 
-
-### Fun Fact
-
-I am always excited to collaborate on open-source projects and contribute to the community. Let's build something great together!

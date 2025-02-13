@@ -33,15 +33,8 @@ I'm a passionate software developer who loves exploring new technologies and tac
 ### Contact Me
 
 - **Email**: [lohith934613@gmail.com](mailto:lohith934613@gmail.com)
-- **LinkedIn**: [✅](https://www.linkedin.com/in/lohith1616/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lohith1616/)
 
-### GitHub Stats
-
-![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lohith016&show_icons=true&theme=radical)
-
-### GitHub Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 ### Fun Fact

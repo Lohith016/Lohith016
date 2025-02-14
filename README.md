@@ -33,6 +33,7 @@ I'm a passionate software developer who loves exploring new technologies and tac
 ### Contact Me
 
 - **Email**: [lohith934613@gmail.com](mailto:lohith934613@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lohith1616/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lohith1616/).
+- 
 
 

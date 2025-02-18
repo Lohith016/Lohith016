@@ -20,15 +20,6 @@ I'm a passionate software developer who loves exploring new technologies and tac
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### Projects
-
-- **Project 1**: [Awesome Project](https://github.com/Lohith016/awesome-project)
-  - Description: A project that does amazing things using cutting-edge technology.
-  - Technologies: React, Node.js, MongoDB
-
-- **Project 2**: [Cool App](https://github.com/Lohith016/cool-app)
-  - Description: An innovative app that solves real-world problems.
-  - Technologies: Django, PostgreSQL
 
 ### Contact Me
 

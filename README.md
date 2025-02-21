@@ -70,3 +70,6 @@ I'm a passionate software developer who loves exploring new technologies and tac
 
 - **Email**: [lohith934613@gmail.com](mailto:lohith934613@gmail.com)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/lohith1616/)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark&hide_border=true)](https://git.io/streak-stats)

@@ -76,13 +76,6 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lohith016&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith016&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
 

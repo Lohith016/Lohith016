@@ -1,4 +1,4 @@
-# Hey there, I'm Lohith! 👋  
+### Hey there, I'm Lohith! 👋  
 
 I'm a passionate software developer who loves exploring new technologies and tackling coding challenges head-on.  
 On this GitHub, you'll find my journey in code—from personal experiments to collaborative projects.  

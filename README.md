@@ -13,7 +13,6 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=black)  
 
 ### 🔥 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  

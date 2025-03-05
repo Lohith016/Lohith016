@@ -26,7 +26,7 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![Turbo](https://img.shields.io/badge/Turbo-000000?logo=turbo&logoColor=white)  
 ![pnpm](https://img.shields.io/badge/pnpm-000000?logo=pnpm&logoColor=white)  

@@ -67,7 +67,7 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 - Writing **clean, maintainable, and efficient code**.  
 - Collaborating in **agile environments** with best development practices.  
 
---
+---
 
 ## 📈 GitHub Stats  
 

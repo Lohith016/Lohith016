@@ -25,6 +25,7 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 ![Turbo](https://img.shields.io/badge/Turbo-000000?logo=turbo&logoColor=white)  
@@ -72,7 +73,7 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lohith016&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lohith016&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 📬 Contact Me  

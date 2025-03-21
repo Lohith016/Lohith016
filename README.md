@@ -22,8 +22,6 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 ### 🛠️ Tools & Technologies  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  

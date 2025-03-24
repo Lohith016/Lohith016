@@ -5,6 +5,7 @@ On this GitHub, you'll find my journey in code—from personal experiments to co
 ---
 ## 🚀 Skills  
 
+
 ### 🖥️ Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  

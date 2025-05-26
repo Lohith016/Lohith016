@@ -5,7 +5,8 @@ I'm a passionate software developer who loves exploring new technologies and tac
 On this GitHub, you'll find my journey in code—from personal experiments to collaborative projects.  
 ---
 
-## 🚀 Skills 
+## 🚀 Skills
+
 
 ### 🖥️ Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
